@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **Edicti/Edicti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I love Computer Science yep!
+
+I'm studing Computer Sciencie in the "UPC", in 2nd Cicle...
+I enjoy working in Apps, Proyects, Resources, etc!!!
+
+## Socials 👾
+[instagram.com](https://camo.githubusercontent.com/fab4c0a432d53601d35066f35942016da2791ed411087bb5155dda7b6c8f8d77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465)
