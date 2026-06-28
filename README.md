@@ -22,3 +22,6 @@ I enjoy working in Apps, Proyects, Resources, etc!!!
 
 ## Socials 👾
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ciencias_de_la_computacion_upc)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://i.blogs.es/4ac32e/evolucionandroid/1366_2000.webp)
+
+LMAOOO
