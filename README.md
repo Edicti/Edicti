@@ -21,4 +21,4 @@ I'm studing Computer Sciencie in the "UPC", in 2nd Cicle...
 I enjoy working in Apps, Proyects, Resources, etc!!!
 
 ## Socials 👾
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michocolq)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ciencias_de_la_computacion_upc)
